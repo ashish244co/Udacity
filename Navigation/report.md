@@ -6,4 +6,4 @@ Results are fairly good where at end of 3000 episode , Average Score: 14.78 is a
 For further graphical results the notebook can be checked.
 
 ### Further Improvements : 
-One can take to bayesian hyperparameter optimisation, using convolutional units as feature extractor instead of dense units and dueling DQN.
+One can take to bayesian hyperparameter optimisation, using convolutional units as feature extractor instead of dense units, dueling DQN, prioritized experience replay and Rainbow
